@@ -10,5 +10,5 @@ Tarot is a divination tool used to gain clarity about any situation. For the pas
 4.BOOTSTRAP
 
 
-
-
+## Try it here :
+www.tarotreader.study
